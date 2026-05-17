@@ -1,6 +1,6 @@
 # Parcial — Clase 08: APIs REST con Python
 
-**Integrantes:** Carlos / Yerfreth
+**Integrantes:** Carlos David Sierra / Yerfreth Mejía Sierra
 
 ---
 
