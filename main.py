@@ -7,21 +7,21 @@ from country import Country, CountryAPI
 #
 # Iniciales y paises elegidos (en orden):
 #
-#   C A R      L      O    S
+#   C A R L O S
 #   C -> Colombia
 #   A -> Austria
-#   R -> Romania       (R de Carlos)
+#   R -> Romania       
 #   L -> Latvia
 #   O -> Oman
 #   S -> Sweden
 #
-#   Y       E        R                  F         R        E           T        H
+#   Y E R F R E T H
 #   Y -> Yemen
-#   E -> Ecuador       (primera E de Yerfreth)
-#   R -> Rwanda        (primera R de Yerfreth)
+#   E -> Ecuador       
+#   R -> Rwanda        
 #   F -> Finland
-#   R -> Russia        (segunda R de Yerfreth)
-#   E -> Ethiopia      (segunda E de Yerfreth)
+#   R -> Russia        
+#   E -> Ethiopia     
 #   T -> Turkey
 #   H -> Hungary
 # =============================================================
@@ -29,16 +29,16 @@ from country import Country, CountryAPI
 PAISES_NOMBRES = [
     "colombia",   # C
     "austria",    # A
-    "romania",    # R - Carlos
+    "romania",    # R
     "latvia",     # L
     "oman",       # O
     "sweden",     # S
     "yemen",      # Y
-    "ecuador",    # E - primera E
-    "rwanda",     # R - primera R Yerfreth
+    "ecuador",    # E 
+    "rwanda",     # R  
     "finland",    # F
-    "russia",     # R - segunda R Yerfreth
-    "ethiopia",   # E - segunda E
+    "russia",     # R
+    "ethiopia",   # E 
     "turkey",     # T
     "hungary",    # H
 ]
